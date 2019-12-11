@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="check_network">Please check your network connection</string>
+    <string name="image">Image</string>
+    <string name="_5_days_of_forecast_serres_using_accuweather">5 Days of Forecast Serres Using Accuweather</string>
+    <string name="save_weather">save weather</string>
+    <string name="thessaloniki">Thessaloniki</string>
+    <string name="Serres">Serres</string>
+</resources>
